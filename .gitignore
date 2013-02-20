@@ -1,0 +1,25 @@
+/log
+/data
+/cache
+
+build
+
+# Windows
+Thumbs.db
+
+# Vim
+.*.sw[a-z]
+*.un~i
+tags
+
+# OsX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# nodejs npm modules
+node_modules
+
+TODO.md
